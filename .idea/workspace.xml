@@ -31,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RecipesMaker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -76,34 +76,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="424" y="27" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1581173743739" />
-    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1581566157985">
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1581880674135">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581566157985" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1581629547024">
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581880674135" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1581887085582">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581629547024" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1581629547023">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581887085582" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1581887085582">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581629547023" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1581629547023">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581887085582" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1581887085581">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581629547023" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1581629547023">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581887085581" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1581887085582">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581629547023" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581887085582" />
     <state x="277" y="75" key="SettingsEditor" timestamp="1581174521704">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1581174521704" />
-    <state x="470" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1581538815184">
+    <state x="470" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1581880561584">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="470" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581538815184" />
+    <state x="470" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581880561584" />
     <state x="209" y="157" key="new project wizard" timestamp="1581566033161">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

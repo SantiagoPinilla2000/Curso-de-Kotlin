@@ -69,11 +69,11 @@ fun main(args: Array<String>) {
 
     val listWithoutNulls: List<Int?> = listWithNulls.filterNotNull()
     println(listWithoutNulls)
-    //Convertir Arrays a datosde tipo primitivo
+    //Convertir Arrays a datos de tipo primitivo
     var arrayObject: Array<Int> = arrayOf(1, 2, 3)
     var arrayInt: IntArray = arrayObject.toIntArray()
-    //Agregar un dato a un array
 
+    //Agregar un dato a un array
     arrayObject = arrayObject.plus(4)
     for (n in arrayObject) {
         println("Array : $n")
@@ -86,4 +86,15 @@ fun main(args: Array<String>) {
     //lambdas vendrian siendo una forma de declarar funciones
 
     var suma = { a: Int, b: Int, c: Int -> a + b + c }
+    println("El resultado de la suma es = ${suma(1, 2, 3)}")
+
+    var calculo = { n: Int ->
+        when (n) {
+            in 1..3 -> println("Tu numero se encuentra entre el 1 y el 3.")
+            in 4..7 -> println("Tu numero se encuentra entre el 4 y el 7.")
+            in 8..10 -> println("Tu numero se encuentra entre el 8 y el 10.")
+            else -> println("Este numero no es valido.")
+        }
+    }
+    println("${calculo(5)}")
 }
